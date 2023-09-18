@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Zubayr Ganiyu</h1>
-<h3 align="center">Student at MITS, Gwalior🌟.</h3>
+<h3 align="center">Freelancer🌟.</h3>
 
 <br>
 
