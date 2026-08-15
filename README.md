@@ -14,9 +14,9 @@ from server architecture to the last pixel of the UI.
 </p>
 
 <p align="center">
-  <a href="#">Portfolio</a> ·
-  <a href="#">LinkedIn</a> ·
-  <a href="mailto:your-email@example.com">Email</a>
+  <a href="https://zubdev.net">Portfolio</a> ·
+  <a href="https://www.linkedin.com/in/zubayr-ganiyu-739267166?utm_source=share_via&utm_content=profile&utm_medium=member_ios">LinkedIn</a> ·
+  <a href="mailto:seunexseun@gmail.com">Email</a>
 </p>
 
 ---
@@ -76,8 +76,8 @@ things that actually go into production — not just proofs of concept.
 
 | Project | Description | Stack |
 |---|---|---|
-| [El Muiz Medicine Store(#) | Fully offline pharmacy inventory managment desktop application software for El Muiz Pharmacy Store | Laravel · Flutter |
-[99Crib(#) | Real estate plartfrom Mobile Application | Laravel · Flutter |
+| [El Muiz Medicine Store](#) | Fully offline pharmacy inventory managment desktop application software for El Muiz Pharmacy Store | Laravel · Flutter |
+[99Crib](#) | Real estate plartfrom Mobile Application | Laravel · Flutter |
 | [Codewigs](#) | A multivendor Digital MarketPlace | Codeignter4 |
 | [OCCIDOMA](#) | A fully function school management system for Okengwe comprehensive college Idoma Okene Kogi state. | Laravel · Inertia · Svelte |
 
